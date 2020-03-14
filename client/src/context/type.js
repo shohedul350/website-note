@@ -1,0 +1,21 @@
+export const SUCCES_REGISTER='SUCCES_REGISTER'
+export const SUCCES_LOGIN='SUCCES_LOGIN'
+export const FAIL_REGISTER='FAIL_REGISTER'
+export const FAIL_LOGIN='FAIL_LOGIN'
+export const SET_ERROR='SET_ERROR'
+export const CLEAR_ERROR='CLEAR_ERROR'
+export const LOG_OUT='LOG_OUT'
+export const SET_USER='SET_USER'
+export const AUTH_ERROR='AUTH_ERROR'
+export const ADD_NOTE='ADD_NOTE'
+export const GET_NOTE ='GET_NOTE'
+export const DELETE_NOTE ='DELETE_NOTE'
+export const UPDATE_NOTE ='UPDATE_NOTE'
+export const EDIT_FORM ='EDIT_FORM'
+export const CLEAR_EDITFORM ='CLEAR_EDITFORM'
+export const CLEAR_SUCCESS ='CLEAR_SUCCESS'
+export const NOTE_ERROR='NOTE_ERROR'
+export const CLEAR_EDIT='CLER_EDIT'
+
+
+
