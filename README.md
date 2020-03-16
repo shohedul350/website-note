@@ -1,7 +1,8 @@
 # website-note
 Full stack project
 
-create .env file  then set the database url like ATLAS_URI: ''
+create .env file  then set the database url like ATLAS_URI= ''
+#see live: https://contact-note.herokuapp.com/
  npm install
  cd client npm install
  cd ..
